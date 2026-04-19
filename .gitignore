@@ -1,0 +1,9 @@
+# Compiled object files
+*.o
+
+# Executable
+triangle
+
+# Temporary editor files
+*.swp
+*~
